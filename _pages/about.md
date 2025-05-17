@@ -23,12 +23,12 @@ BSc, 2014-2018, Central South University
 
 Work
 ======
-RA, 2024-2025, The University of Hong Kong
 RA, 2019-2020, The University of Hong Kong
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+Research interests
+======
+My primary research focus is on microbial genomics, particularly bacterial genomics and antimicrobial resistance. I conduct One Health surveillance to study the transmission of antibiotic resistance genes across different hosts—including animals, humans, food, and the environment—and investigate the potential drivers of ARG dissemination. Additionally, I explore clinical microbiology and epidemiology to provide further insights for clinical decision-making.
+
 
 Create content & metadata
 ------
