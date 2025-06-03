@@ -7,11 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD graduate from the University of Hong Kong. My research interests include antimicrobial resistance, horizontal gene transfer, One Health, microbial genomics, and Outbreak investigation.
+I'm a PhD graduate from the University of Hong Kong. My research interests include antimicrobial resistance, horizontal gene transfer, One Health, microbial genomics, and outbreak investigation.
 
-I'm very fortunate to be advised by [Prof. Ho Pak Leung](https://scholar.google.com.hk/citations?user=0FWUuOkAAAAJ&hl=en) and [Dr. Huiluo Cao](https://scholar.google.com/citations?user=AP7KbY0AAAAJ&hl=en) from department of Microbiology.
-
-I'm always happy to hear from researchers with an interest in microbial genomics or other research themes related to our work. Please reach out via email: jason17@connect.hku.hk.
+I'm very fortunate to be advised by [Prof. Ho Pak Leung](https://scholar.google.com.hk/citations?user=0FWUuOkAAAAJ&hl=en) and [Dr. Huiluo Cao](https://scholar.google.com/citations?user=AP7KbY0AAAAJ&hl=en) from the Department of Microbiology.
 
 Education
 ======
