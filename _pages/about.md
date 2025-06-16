@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD graduate from the University of Hong Kong. My research interests include antimicrobial resistance, horizontal gene transfer, One Health, microbial genomics, and outbreak investigation.
+I'm a PhD graduate from the University of Hong Kong. My research interests focus on microbial genomics, including One Health, bacterial evolution, and clinical microbiology.
 
 I'm very fortunate to be advised by [Prof. Ho Pak Leung](https://scholar.google.com.hk/citations?user=0FWUuOkAAAAJ&hl=en) and [Dr. Huiluo Cao](https://scholar.google.com/citations?user=AP7KbY0AAAAJ&hl=en) from the Department of Microbiology.
 
@@ -42,9 +42,8 @@ Selected publications
 •	Chan, Y.X., Cao, H., **Jiang, S.**, Li, X., Fung, K.K., Lee, C.H., Sridhar, S., Chen, J.H.K. and Ho, P.L., 2024. Genomic investigation of _Lactococcus formosensis_, _Lactococcus garvieae_, and _Lactococcus petauri_ reveals differences in species distribution by human and animal sources. Microbiology Spectrum, 12(6), pp.e00541-24.      
 •	Lee, C.H., **Jiang, S.**, Tong, M.K., Tse, C.W.S. and Ho, P.L., 2022. False-positive immunochromatographic CTX-M enzyme test from direct testing of a positive blood culture. European Journal of Clinical Microbiology & Infectious Diseases, pp.1-3.   
 
-
-
-Sports
+Presentations
 ======
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+•	Global overview of the origin and expansion of Staphylococcus aureus clonal complex 59. **Jiang, S.**, Ho, P.L., Cao, H., Antimicrobial resistance symposium: challenges and solutions to the AMR crisis, 9-11 Sep 2024, Singapore. (_oral presentation_)   
+•	One Health investigation of CTX-M type extended-spectrum beta-lactamase-producing Escherichia coli isolated from food and human. **Jiang, S.**, Ho, P.L., The 33rd European Congress of Clinical Microbiology & Infectious Diseases (33rd ECCMID), 15-18 April 2023, Copenhagen, Denmark. (_poster presentation_)   
+•	Evaluation of the NG-Test CTX-M MULTI assay for the rapid detection of CTX-M extended-spectrum beta-lactamase producers from positive blood cultures. **Jiang, S.**, Ho, P.L., The 26th Research Postgraduate Symposium, 1-2 Dec 2021, LKS Faculty of Medicine, The University of Hong Kong. (_poster presentation_)
