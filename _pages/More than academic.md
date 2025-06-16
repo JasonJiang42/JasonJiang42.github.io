@@ -37,4 +37,4 @@ Highlights from my frisbee tournament days. Fun fact: I'm often asked if it's a 
 📅2024: Try to find inner peace at the University of Hong Kong〰️   
 
 <img src="/images/sticker.jpg" alt="Descriptive alt text" width="400px">  
-📅2023:A lamp post at the National Museum of Denmark, charmingly decorated with a collection of stickers.
+📅2023: A lamp post at the National Museum of Denmark, charmingly decorated with a collection of stickers.
