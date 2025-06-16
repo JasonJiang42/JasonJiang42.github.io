@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "My New Page Title"
-permalink: /my_new_page/
+title: "More than academic"
+permalink: /More than academic/
 author_profile: true
 ---
