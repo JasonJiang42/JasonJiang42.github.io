@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "When I'm doing research"
+title: "When I'm not doing research🤯"
 permalink: /More than academic/
 ---
 
