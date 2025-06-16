@@ -1,6 +1,5 @@
-
 ---
-title: "Table Tennis training in SHC"
+title: "Portfolio item number 1"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/pingpang.jpg'>"
 collection: portfolio
 ---
