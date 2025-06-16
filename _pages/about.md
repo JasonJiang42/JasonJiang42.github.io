@@ -42,6 +42,9 @@ Selected publications
 •	Chan, Y.X., Cao, H., **Jiang, S.**, Li, X., Fung, K.K., Lee, C.H., Sridhar, S., Chen, J.H.K. and Ho, P.L., 2024. Genomic investigation of _Lactococcus formosensis_, _Lactococcus garvieae_, and _Lactococcus petauri_ reveals differences in species distribution by human and animal sources. Microbiology Spectrum, 12(6), pp.e00541-24.      
 •	Lee, C.H., **Jiang, S.**, Tong, M.K., Tse, C.W.S. and Ho, P.L., 2022. False-positive immunochromatographic CTX-M enzyme test from direct testing of a positive blood culture. European Journal of Clinical Microbiology & Infectious Diseases, pp.1-3.   
 
+You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=P-zeYosAAAAJ&view_op=list_works&sortby=pubdate).
+
+
 Presentations
 ======
 •	Global overview of the origin and expansion of Staphylococcus aureus clonal complex 59. **Jiang, S.**, Ho, P.L., Cao, H., Antimicrobial resistance symposium: challenges and solutions to the AMR crisis, 9-11 Sep 2024, Singapore. (_oral presentation_)   
