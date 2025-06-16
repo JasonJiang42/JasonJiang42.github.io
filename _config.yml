@@ -279,8 +279,8 @@ defaults:
       type: talks
     values:
       layout: talk
-      author_profile: FALSE
-      share: FALSE
+      author_profile: true
+      share: true
 
 
 # Sass/SCSS
