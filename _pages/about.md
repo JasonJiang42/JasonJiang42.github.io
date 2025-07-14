@@ -13,7 +13,7 @@ I'm very fortunate to be advised by [Prof. Ho Pak Leung](https://scholar.google.
 
 Education
 ======
-PhD, 2020-2024, The University of Hong Kong 
+PhD, 2020-2024, The University of Hong Kong (Certificate in 2025)
 
 MSc, 2018-2019, The University of Hong Kong 
 
