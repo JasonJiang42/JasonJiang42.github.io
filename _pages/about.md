@@ -33,10 +33,10 @@ Looking ahead, I'm incredibly excited about diving into phage studies – explor
 
 Selected publications
 ------
-•	**Jiang, S.**, Ho, P.L., Cao, H., 2025. Cross-sectoral sharing of CTX-M-producing Escherichia coli: A One Health analysis to understand dissemination modes. npj Antimicrobials and Resistance, under review.   
-•	**Jiang, S.**, Gao, P., Ping, S., Hou, S., Xiao C., Richard K., Ho, P.L., Xiao, Y.H, Cao, H., 2025. Global emergence and evolution of _Staphylococcus aureus_ clonal complex 59. BMC Genome Medicine, under review.   
-•	Ma, Z., Hu, J., Mo, L., Yu, B., Cao, H.*, **Jiang, S.***, 2025. Emergence and regional evolution of _Klebsiella pneumoniae_ carbapenemase (KPC)-producing _Klebsiella pneumoniae_ ST11 in China. International Journal of Antimicrobial Agents, Under review. ***Corresponding author**.   
-•	Xiao, C.#, **Jiang, S.#**, Guo, Z., Ho, P.L., Dai, J., Cao, H., Yang, Z.T., 2025. Population Genomics and Host Adaptation of _Acinetobacter junii_: Integrated Genomic and Transcriptomic Analyses Reveal Novel Virulence Factors and Bloodstream Infection Mechanisms. Microbiology Spectrum, Under review. **#Contribute equally**.   
+•	**Jiang, S.**, Ho, P.L., Cao, H., 2025. Cross-sectoral sharing of CTX-M-producing Escherichia coli: A One Health analysis to understand dissemination modes. Under review.   
+•	**Jiang, S.**, Gao, P., Ping, S., Hou, S., Xiao C., Richard K., Ho, P.L., Xiao, Y.H, Cao, H., 2025. Global emergence and evolution of _Staphylococcus aureus_ clonal complex 59. Under review.   
+•	Ma, Z., Hu, J., Mo, L., Yu, B., Cao, H.*, **Jiang, S.***, 2025. Emergence and regional evolution of _Klebsiella pneumoniae_ carbapenemase (KPC)-producing _Klebsiella pneumoniae_ ST11 in China. Under review. ***Corresponding author**.   
+•	Xiao, C.#, **Jiang, S.#**, Guo, Z., Ho, P.L., Dai, J., Cao, H., Yang, Z.T., 2025. Population Genomics and Host Adaptation of _Acinetobacter junii_: Integrated Genomic and Transcriptomic Analyses Reveal Novel Virulence Factors and Bloodstream Infection Mechanisms. Under review. **#Contribute equally**.   
 •	**Jiang, S.**, Ma, Z., Cao, H., Mo, L., Jin, J., Yu, B., Chu, K. and Hu, J., 2024. Genomic study substantiates the intensive care unit as a reservoir for carbapenem-resistant _Klebsiella pneumoniae_ in a teaching hospital in China. Microbial Genomics, 10(9), p.001299.  
 •	**Jiang, S.**, Ye, M., Liu, K., Cao, H. and Lin, X., 2025. Complete genome sequence of _Pseudomonas aeruginosa_ YK01, a sequence type 16 isolated from a patient with keratitis. BMC Genomic Data, 26(1), p.7.   
 •	Chan, Y.X., Cao, H., **Jiang, S.**, Li, X., Fung, K.K., Lee, C.H., Sridhar, S., Chen, J.H.K. and Ho, P.L., 2024. Genomic investigation of _Lactococcus formosensis_, _Lactococcus garvieae_, and _Lactococcus petauri_ reveals differences in species distribution by human and animal sources. Microbiology Spectrum, 12(6), pp.e00541-24.      
